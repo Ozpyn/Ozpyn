@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Ozpyn
-- 👀 I’m interested in Anything related to computers
-- 🌱 I’m currently learning Some tomfoolery.
-- 💞️ I’m looking to collaborate on Gizmos and Gadgets
-- 📫 How to reach me: Discord: Ozpn#4086 or here, whatever you prefer!
+I’m Ozpyn
+
+Discord: Ozpn#4086
