@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Ozpyn<br><br>B.S. in Computer Science | Kent State University (May 2025)<br>M.S. in Computer Science | Kent State University (in progress)<br><br>
+Hello, I am Ozpyn<br>I am a silly goofy goober<br><br>B.S. in Computer Science | Kent State University (May 2025)<br>M.S. in Computer Science | Kent State University (in progress)<br><br>
 
 
 ## 🌐 Socials:
